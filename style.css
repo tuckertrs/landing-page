@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    overflow:visible;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+
+.header{
+    background-color: #1f2937;
+    display: flex;
+    justify-content:flex-start;
+    padding:20px;
+    flex-wrap:wrap;
+    flex-direction: row;
+    
+    
+
+
+}
+
+.hero-logo{
+    font-size: 24px;
+    color: #f9faf8;
+    
+}
+
+.header-link{
+    color:#e5e7eb;
+    font-size: 18px;
+}
+
+.hero-main{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+.hero-secondary{
+    font-size: 18px;
+    color:#e5e7eb
+}
+
+.link-1{
+    margin-right: 20px;
+}
+.link-2{
+    margin-right:20px;
+}
+
+.link-3{
+    margin-right:20px;
+}
